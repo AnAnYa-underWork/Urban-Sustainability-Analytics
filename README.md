@@ -33,7 +33,7 @@ The framework transforms raw urban data into actionable insights for policymaker
 # System Architecture
 
 <p align="center">
-  <img src="results/Urban_System_Architecture.png" width="100%">
+  <img src="results/Urban_System_Architechture.png" width="90%">
 </p>
 
 The complete analytics pipeline integrates data collection, preprocessing, statistical analysis, machine learning models, predictive analytics, and interactive visualization.
